@@ -10,3 +10,109 @@
   padding: 20px;
   font-size: 30px;
 } */
+
+/* FLEX CONTAINER */
+/* flex-direction */
+
+/* .flex-container {
+  display: flex;
+  background-color: dodgerblue;
+  flex-direction: column-reverse;
+}
+
+.flex-container > div {
+  background-color: white;
+  margin: 10px;
+  width: 100px;
+  font-size: 30px;
+  text-align: center;
+  line-height: 75px;
+} */
+
+/* flex-wrap */
+
+/* .flex-container {
+  display: flex;
+  background-color: dodgerblue;
+  flex-wrap: wrap;
+}
+
+.flex-container > div {
+  background-color: white;
+  text-align: center;
+  margin: 10px;
+  font-size: 30px;
+  line-height: 75px;
+  width: 100px;
+} */
+
+/* flex-flow */
+
+/* .flex-container {
+  display: flex;
+  background-color: dodgerblue;
+  flex-flow: row wrap;
+}
+
+.flex-container > div {
+  background-color: white;
+  text-align: center;
+  margin: 10px;
+  font-size: 30px;
+  line-height: 75px;
+  width: 100px;
+} */
+
+/* justify-content */
+
+/* .flex-container {
+  display: flex;
+  background-color: dodgerblue;
+  justify-content: space-around;
+}
+
+.flex-container > div {
+  background-color: white;
+  text-align: center;
+  margin: 10px;
+  font-size: 30px;
+  line-height: 75px;
+  width: 100px;
+} */
+
+/* align-item */
+
+/* .flex-container {
+  height: 200px;
+  align-items: center;
+  display: flex;
+  background-color: dodgerblue;
+}
+
+.flex-container > div {
+  background-color: white;
+  text-align: center;
+  margin: 10px;
+  font-size: 30px;
+  line-height: 75px;
+  width: 100px;
+} */
+
+/* align-content */
+/* 
+
+/* perfect centering */
+/* .flex-container {
+  display: flex;
+  height: 300px;
+  justify-content: center;
+  align-items: center;
+  background-color: dodgerblue;
+}
+
+.flex-container > div {
+  background-color: wheat;
+  color: white;
+  width: 100px;
+  height: 100px;
+} */
